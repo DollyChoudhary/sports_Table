@@ -1,0 +1,37 @@
+body{
+    background: rgb(235, 136, 7);
+}
+
+
+.table_div {
+
+
+    color: aqua;
+    font-size: 22px;
+    padding: 45px;
+    margin: 20px;
+    
+}
+
+.table_div table{
+    width: 100%;
+}
+
+td,th {
+    height: 50px;
+    border-bottom: 1px solid #ddd;
+
+  }
+
+
+h1{ 
+    background-clip: text;
+    color: rgb(239, 248, 248);   
+    background: url(img2.jpg)  ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 50px;
+    text-align: center;
+ 
+
+}
